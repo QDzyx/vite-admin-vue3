@@ -1,0 +1,1 @@
+import{_ as e,d as s}from"./index.722facbf.js";var a=e(s({__name:"pagesOne",setup:e=>(e,s)=>" 第一个页面 "}),[["__file","C:/Users/nulid/Desktop/vue3-vite-admin-universal-rack/src/views/pages/pagesOne.vue"]]);export{a as default};
