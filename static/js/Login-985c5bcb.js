@@ -1,0 +1,1 @@
+import{_ as e}from"./index-2eed20e1.js";var n=e(Vue.defineComponent({__name:"Login",setup:e=>(e,n)=>(Vue.openBlock(),Vue.createElementBlock("div",null," 登录页 "))}),[["__file","C:/Users/nulid/Desktop/vue3-vite-admin-universal-rack/src/views/login/Login.vue"]]);export{n as default};
