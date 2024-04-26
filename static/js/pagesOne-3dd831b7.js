@@ -1,1 +1,0 @@
-import{_ as e}from"./index-2eed20e1.js";var s=e(Vue.defineComponent({__name:"pagesOne",setup:e=>(e,s)=>" 第一个页面 "}),[["__file","C:/Users/nulid/Desktop/vue3-vite-admin-universal-rack/src/views/pages/pagesOne.vue"]]);export{s as default};
