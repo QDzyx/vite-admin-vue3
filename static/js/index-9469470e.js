@@ -1,0 +1,1 @@
+import{_ as e}from"./index-c4b041de.js";var i=e(Vue.defineComponent({__name:"index",setup:e=>(e,i)=>(Vue.openBlock(),Vue.createElementBlock("div",null," 用户2 "))}),[["__file","C:/Users/Administrator/Desktop/vue3-vite-admin-universal-rack/src/views/userTwo/index.vue"]]);export{i as default};
