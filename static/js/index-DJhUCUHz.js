@@ -1,2 +1,0 @@
-import{d as a,p as e,r as s,c as l,a as t,w as u,b as n,o,e as r,t as d}from"./index-cWNrLJgD.js";const c=a({__name:"index",setup(a){const{locale:c}=e(),i=s(!1),m=()=>{i.value=!i.value,c.value=i.value?"en":"zh"};return(a,e)=>{const s=n("el-button");return o(),l("div",null,[t(s,null,{default:u((()=>[r(d(a.$t("message.user")),1)])),_:1}),t(s,{onClick:m},{default:u((()=>[r(d(a.$t("message.language")),1)])),_:1})])}}});export{c as default};
-//# sourceMappingURL=index-DJhUCUHz.js.map
