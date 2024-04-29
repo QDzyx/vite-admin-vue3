@@ -1,0 +1,2 @@
+import{u as e}from"./index-CkogVoFn.js";const n=Vue.defineComponent({__name:"404",setup(n){Vue.getCurrentInstance();const{user:t}=e();return Pinia.storeToRefs(t),VueRouter.useRouter(),Vue.ref({name:"123",ipAddress:"123"}),(e,n)=>(Vue.openBlock(),Vue.createElementBlock("div",null," 123123 "))}});export{n as default};
+//# sourceMappingURL=404-DImnn6Do.js.map
