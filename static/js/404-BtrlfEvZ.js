@@ -1,0 +1,1 @@
+import{u as e}from"./index-rCA4Wo80.js";import"https://cdn.jsdelivr.net/npm/dhtmlx-gantt@8.0.6/+esm";const t=Vue.defineComponent({__name:"404",setup(t){Vue.getCurrentInstance();const{user:n}=e();return Pinia.storeToRefs(n),VueRouter.useRouter(),Vue.ref({name:"123",ipAddress:"123"}),(e,t)=>(Vue.openBlock(),Vue.createElementBlock("div",null," 123123 "))}});export{t as default};
